@@ -1,3 +1,4 @@
 001 the day before last day is my 1st work-day 
 002 last day is my 2nd work-day
-003 yesterday if 3rd day since i worked.               
+003 yesterday if 3rd day since i worked.
+004 Today is the 4th day.
